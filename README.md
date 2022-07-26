@@ -1,4 +1,4 @@
-# Simple-Calculator
+# Simple-Calculator Mini project
 It is a simple calculator done in the Python programmiing language.
 tkinder framework is used to design this simple calculator.
 
